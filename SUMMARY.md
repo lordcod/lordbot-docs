@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LordBot - Документация](README.md)
+* [📕 Основная информация](README.md)
 
 ## ❓ Гайды <a href="#guides" id="guides"></a>
 
