@@ -6,4 +6,4 @@
 
 * [🔜 Embed Builder](guides/embed-builder.md)
 * [📮 Авто сообщения в ветках/форумах](guides/auto-thread-messages.md)
-* [🔜 Авто реакции](guides/avto-reakcii.md)
+* [🟢 Авто реакции](guides/avto-reakcii.md)
