@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📕 Основная информация](README.md)
-* [📑 Журнал обновлений](update-log.md)
+* [📑 Журнал изменений](update-log.md)
 
 ## ❓ Гайды <a href="#guides" id="guides"></a>
 
