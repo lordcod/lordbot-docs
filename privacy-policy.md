@@ -1,7 +1,7 @@
 # Privacy Policy
 
 Этот документ содержит политику конфиденциальности и соглашение, которые вы принимаете при добавлении бота на сервер или в качестве участника такого сервера.
-Настоящий документ не заменяет собой <a href="https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service">Условия предоставления услуг разработчиком.</a>
+Настоящий документ не заменяет собой [Условия предоставления услуг разработчиком](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service).
         
 ## Боты, сервисы и серверы
             
@@ -11,7 +11,7 @@
 
 Настоящая политика конфиденциальности также применяется ко всем этим сайтам и поддоменам этих сайтов:
             
-* <a href="https://lordcord.fun">**lordcord.fun**</a>
+* [**lordcord.fun**](https://lordcord.fun)
 
         
 ## Терминология       
