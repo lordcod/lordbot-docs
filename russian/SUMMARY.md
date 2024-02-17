@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📕 Основная информация](README.md)
-* [📑 Журнал изменений](change-log.md)
+* [📑 Журнал изменений](update-log.md)
 * [📗 Политика конфиденциальности](privacy-policy.md)
 * [🗝️ Условия обслуживания](terms-of-service.md)
 
