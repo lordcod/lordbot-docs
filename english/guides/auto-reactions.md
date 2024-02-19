@@ -14,7 +14,7 @@ Select `auto reactions` in the settings
 
 Click add
 
-<figure><img src="../.gitbook/assets/3-reacts-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3-reacts-3 (2).png" alt=""><figcaption></figcaption></figure>
 
 We select the channel you are interested in
 
@@ -28,8 +28,8 @@ Click `Install Emoji`
 
 **3** types of emojis are allowed:
 
-* Regular emojis&#x20;
-* Custom emojis&#x20;
+* Regular emojis
+* Custom emojis
 * Animated custom emojis
 
 #### Regular emojis
@@ -78,7 +78,7 @@ And we enjoy the result
 
 Go to auto reactions and select the desired channel
 
-<figure><img src="../.gitbook/assets/3-reacts-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3-reacts-15 (2).png" alt=""><figcaption></figcaption></figure>
 
 Click edit reactions
 

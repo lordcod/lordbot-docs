@@ -12,11 +12,11 @@ LordCord is a completely free multi-user Discord bot with features such as: mode
 
 ## How do I add LordCord to sevrer?
 
-<figure><img src=".gitbook/assets/1-info-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1-info-1 (3).png" alt=""><figcaption></figcaption></figure>
 
 Select the server and click `Continue`
 
-<figure><img src=".gitbook/assets/1-info-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1-info-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the rights for the bot on the server
 

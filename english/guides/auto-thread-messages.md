@@ -12,7 +12,7 @@ How to create Auto posts in branches/forums
 
 Open the settings and go to the `Automatic message in the branch/post`
 
-<figure><img src="../.gitbook/assets/2-thread-mes-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-thread-mes-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 When the message has loaded, click add
 
@@ -43,4 +43,3 @@ Select the channel we are interested in
 <figure><img src="../.gitbook/assets/2-thread-mes-8.png" alt=""><figcaption></figcaption></figure>
 
 Here you can view the message itself, edit it and delete it
-

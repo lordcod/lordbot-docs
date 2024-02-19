@@ -7,14 +7,14 @@ description: >-
 # 📝 Embed Builder
 
 {% hint style="info" %}
-The website for creating embedded elements is [lordcord.fun/embed-builder](https://lordcord.fun/embed-builder).&#x20;
+The website for creating embedded elements is [lordcord.fun/embed-builder](https://lordcord.fun/embed-builder).
 
 You can also use other sites with a similar focus.
 {% endhint %}
 
 ## Description of the site fields
 
-<figure><img src="../../.gitbook/assets/4-embeds-1.png" alt=""><figcaption><p>In the discord</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4-embeds-1 (1).png" alt=""><figcaption><p>In the discord</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/4-embeds-2.png" alt=""><figcaption><p>In the editor</p></figcaption></figure>
 
@@ -28,7 +28,7 @@ The site provides 10 standard colors!
 
 <figure><img src="../../.gitbook/assets/4-embeds-4.png" alt=""><figcaption></figcaption></figure>
 
-If you want to use a specific color on a web page, I recommend visiting the  website [HTML Color Codes (click here)](https://htmlcolorcodes.com/), find the desired color, then copy the color code to **HEX(#)** and paste it into the **embed** program.
+If you want to use a specific color on a web page, I recommend visiting the website [HTML Color Codes (click here)](https://htmlcolorcodes.com/), find the desired color, then copy the color code to **HEX(#)** and paste it into the **embed** program.
 
 ## The Inline parameter
 
@@ -59,8 +59,7 @@ After you finish editing, click on the "**Copy**" button. This will copy the ent
 <figure><img src="../../.gitbook/assets/4-embeds-10.png" alt=""><figcaption><p>Result</p></figcaption></figure>
 
 {% hint style="warning" %}
-Note: Various file types can be used as images, including images (PNG, JPEG, JPG, WEBM formats) and animated GIF images.&#x20;
+Note: Various file types can be used as images, including images (PNG, JPEG, JPG, WEBM formats) and animated GIF images.
 
 In the form where the provision of a photo is used, you must specify a link to the photo.
 {% endhint %}
-
