@@ -14,7 +14,7 @@ You can also use other sites with a similar focus.
 
 ## Description of the site fields
 
-<figure><img src="../../.gitbook/assets/4-embeds-1 (1).png" alt=""><figcaption><p>In the discord</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4-embeds-1.png" alt=""><figcaption><p>In the discord</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/4-embeds-2.png" alt=""><figcaption><p>In the editor</p></figcaption></figure>
 
