@@ -41,6 +41,3 @@ In the settings, go to `Automatic messages in forums/branches`
 Select the channel we are interested in
 
 <figure><img src="../.gitbook/assets/2-thread-mes-8.png" alt=""><figcaption></figcaption></figure>
-
-Here you can view the message itself, edit it and delete it
-

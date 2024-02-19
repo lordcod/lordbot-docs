@@ -82,4 +82,3 @@ Go to auto reactions and select the desired channel
 
 Click edit reactions
 
-**Then everything is as in adding a reaction!**
