@@ -1,16 +1,17 @@
 ---
 description: >-
-  A list of all updates related to each version of the bot is presented in 
-  the form of a list.
+  A list of all updates related to each version of the bot is presented in  the
+  form of a list.
 ---
 
-# 📑 Change Log
+# 📑 Chnage log
 
-## Scheduled update - Alpha/v0.2.1
+## Alpha/v0.2.1
 
-\~18.02.2024
+19.02.2024
 
 ### What's Changed
+
 1. Added the leaderboard command.
 2. Updated economy settings.
 3. Added the ability to add custom emojis for the economy.
@@ -18,7 +19,7 @@ description: >-
 5. There is a limit on the commands `gift`, `take` now the maximum amount can be 1 million.
 6. The help command has been updated, new services present in the update have been added.
 7. Fixed the perception of commands for further rights verification.
-8. New command execution rules have been added: cooldown, allowed roles, allowed channels. 
+8. New command execution rules have been added: cooldown, allowed roles, allowed channels.
 9. A new temporary roles service has been added.
 10. Database acquisition time is accelerated.
 11. The idea service has been added.
@@ -27,6 +28,7 @@ description: >-
 14. The translation function has been updated.
 
 ### Languages added
+
 * Indonesia 🇮🇩
 * Danish 🇩🇰
 * German 🇩🇪
@@ -34,7 +36,6 @@ description: >-
 * French 🇫🇷
 * Polish 🇵🇱
 * Turkish 🇹🇷
-
 
 ## Alpha/v0.1.2
 
@@ -45,10 +46,10 @@ description: >-
 * **`/activity`** - Fixed the work of the team
 * Updated emojis in economy and settings
 * The music module has been completely removed
-* Added the command `/clone role`&#x20;
+* Added the command `/clone role`
 * Changed the type of auto-reaction settings
 * Changing the appearance of the `l.help` command
-* Added the welcome module:&#x20;
+* Added the welcome module:
   * Automatic roles
   * Automatic greeting for newbies
 * Added a translation to the message when the bot is mentioned
