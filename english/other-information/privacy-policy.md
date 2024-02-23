@@ -1,6 +1,6 @@
 # 📗 Privacy Policy
 
-This document contains the privacy policy and agreement that you accept when adding a bot to a server or as a member of such a server. This document does not replace [Terms of Service разработчиком](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service).
+This document contains the privacy policy and agreement that you accept when adding a bot to a server or as a member of such a server. This document does not replace [Terms of Service ](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service)[Developers](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service).
 
 ## Bots, services and servers
 
@@ -15,7 +15,7 @@ This privacy policy also applies to all of these sites and subdomains of these s
 ## Terminology
 
 * **Server Manager** - anyone who has the ability to add a bot to the server or configure a bot for the server. This is usually an administrator or moderator
-* **Server member** - anyone who is a member of the server to which one of the bots was added
+* **Server Member** - anyone who is a member of the server to which one of the bots was added
 * **Service User** - anyone who authorizes an application for an area that provides additional information
 
 ## Data collected
@@ -41,7 +41,7 @@ This privacy policy also applies to all of these sites and subdomains of these s
 
 All saved data is stored on secure servers.
 
-Although storage methods vary, most of the data is stored in password-protected databases such as H2 or Derby.
+Although storage methods vary, most of the data is stored in password-protected databases such as PostgreSQL or MongoDB.
 
 Please keep in mind that even with such protection, no data can ever be 100% secure.
 
