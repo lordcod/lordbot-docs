@@ -11,6 +11,6 @@
 
 ## 🧾 Другая информация <a href="#other-information" id="other-information"></a>
 
-* [📄 Журнал изменений](change-log.md)
-* [📗 Политика конфиденциальности](privacy-policy.md)
-* [🗝️ Условия обслуживания](terms-of-service.md)
+* [📄 Журнал изменений](other-information/change-log.md)
+* [📗 Политика конфиденциальности](other-information/privacy-policy.md)
+* [🗝️ Условия обслуживания](other-information/terms-of-service.md)

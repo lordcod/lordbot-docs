@@ -11,6 +11,6 @@
 
 ## 🧾 Other information <a href="#other-information" id="other-information"></a>
 
-* [📄 Chnage log](change-log.md)
-* [📗 Privacy Policy](privacy-policy.md)
-* [🗝️ Terms of Service](terms-of-service.md)
+* [📄 Chnage log](other-information/change-log.md)
+* [📗 Privacy Policy](other-information/privacy-policy.md)
+* [🗝️ Terms of Service](other-information/terms-of-service.md)
