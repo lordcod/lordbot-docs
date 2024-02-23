@@ -33,7 +33,9 @@ This privacy policy also applies to all of these sites and subdomains of these s
 
 ## Data collected through authorization
 
-User name, Discord ID, avatar data
+* User name
+* Discord ID
+* Avatar data
 
 ## Data storage
 
@@ -52,6 +54,8 @@ Feedback on any bots and services provided without exception is welcome.
 When you submit comments, suggestions, bug reports, and any other feedback forms, you waive any rights to the content, title, or purpose of the feedback provided.
 
 In addition, feedback can be used in any way.
+
+[**Discord Support Server**](https://discord.gg/48JCcbAAnV)
 
 ## Agreement
 
