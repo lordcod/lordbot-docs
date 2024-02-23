@@ -6,7 +6,7 @@ This document contains the privacy policy and agreement that you accept when add
 
 Below is a list of bots to which this privacy policy applies:
 
-* LordCord#2170
+* [**LordCord#2170**](https://lordcord.fun/bot-invite)
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
 

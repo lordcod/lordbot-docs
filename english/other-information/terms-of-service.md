@@ -2,11 +2,6 @@
 ## Privacy Policy
 [Link to Privacy Policy](privacy-policy.md)
 
-## Data access
-[See the Privacy Policy](privacy-policy.md)
-
-## Data Storage
-[See the Privacy Policy](privacy-policy.md)
 
 ## User rights
 You have the right to request a review of the data related to your Discord account at any time. 
@@ -27,4 +22,4 @@ If it turns out that the user is a minor, we will take all necessary actions to 
 If you have any questions or are concerned about what data may be stored in your account,
 please contact us via [**Discord Support Server**](https://discord.gg/48JCcbAAnV). For more information, check out 
 
-## [Discord Terms of Service.](https://discord.com/terms)
+## [Discord Terms of Service](https://discord.com/terms)
