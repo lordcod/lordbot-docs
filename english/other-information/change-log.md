@@ -4,7 +4,7 @@ description: >-
   form of a list.
 ---
 
-# 📑 Chnage log
+# 📑 Change log
 
 ## Alpha/v0.2.1
 
