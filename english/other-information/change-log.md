@@ -68,5 +68,5 @@ description: >-
 * **Settings**: You can change the prefix, language, disable commands, change the color of system messages, as well as set automatic messages in branches and forums, and set automatic reactions.
 * **Embed-buidler**: The ability to send embed messages without using a webhook.
 * **Available languages:**
-  * English(English)
-  * Russian(Русский)
+  * English 🇺🇲
+  * Russian 🇷🇺
