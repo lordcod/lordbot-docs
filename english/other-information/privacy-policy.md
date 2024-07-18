@@ -66,7 +66,7 @@ For the neural network, we use the following libraries: TensorFlow, NLTK, Gensim
 We have 2 neural networks: 1. this is the recognition of questions. 2 This is a search for similar questions that managers have recorded
 {% endhint %}
 
-{% hint style="warn" %}
+{% hint style="warning" %}
 The user can refuse to use this Internet, after which he is prohibited from using the bot and is on the same server with it.
 {% endhint %}
 
