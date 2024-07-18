@@ -66,12 +66,17 @@ For the neural network, we use the following libraries: TensorFlow, NLTK, Gensim
 We have 2 neural networks: 1. this is the recognition of questions. 2 This is a search for similar questions that managers have recorded
 {% endhint %}
 
-{% hint style="warning" %}
-The server owner can refuse to train a neural network on his server.
+{% hint style="success" %}
+We use a Community of messages containing a question mark to process our neural network, before the bot processes them, the manager must confirm that this is indeed a question.
+
+
+Regarding security and content reading, we only scan through channels that are **open to everyone**, and provided that **everyone can be on this server**, i.e. @everyone will be allowed createInvite=True.
 {% endhint %}
 
 {% hint style="warning" %}
-The user can refuse to use this Intent, after which he is prohibited from using the bot and is on the same server with it.
+The user can refuse to use this Intent.
+
+The server owner can refuse to train a neural network on his server.
 {% endhint %}
 
 ## Data storage
