@@ -62,12 +62,12 @@ This is necessary for logs, moderation, as well as our neural network.
 
 We do not store your messages beyond the discord limit.
 
-For the neural network, we use the following libraries: TensorFlow, NLTK, Gensim.
+For the neural network, we use the following libraries: TensorFlow, NLTK, Gensim. 
 We have 2 neural networks: 1. this is the recognition of questions. 2 This is a search for similar questions that managers have recorded
 {% endhint %}
 
 {% hint style="warning" %}
-The user can refuse to use this Internet, after which he is prohibited from using the bot and is on the same server with it.
+The user can refuse to use this Intent, after which he is prohibited from using the bot and is on the same server with it.
 {% endhint %}
 
 ## Data storage
