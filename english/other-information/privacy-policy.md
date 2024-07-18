@@ -17,6 +17,7 @@ This privacy policy also applies to all of these sites and subdomains of these s
 * **Server Manager** - anyone who has the ability to add a bot to the server or configure a bot for the server. This is usually an administrator or moderator
 * **Server Member** - anyone who is a member of the server to which one of the bots was added
 * **Service User** - anyone who authorizes an application for an area that provides additional information
+* **Intent** - Special rights issued by discord to obtain unique data
 
 ## Data collected
 
@@ -31,11 +32,43 @@ This privacy policy also applies to all of these sites and subdomains of these s
 * Date and time of the last action
 * Any data required for the standard operation of Discord bots, such as server permissions
 
+
 ## Data collected through authorization
 
 * User name
 * Discord ID
 * Avatar data
+
+## User rights
+
+You can refuse to track any type of bot event, including privileged intents, if you refuse them, expect problems such as if you refuse Server Members Intent, then when you log on to any server, the bot will not be able to track you and therefore you may not get an auto role.
+
+## Presence Intent
+
+{% hint style="info" %}
+The bot will be able to track your activity.
+
+This is necessary for the economy, logs, as well as some commands.
+
+The server owner may request a waiver of this intention.
+{% endhint %}
+
+## Member Content Intent
+
+{% hint style="info" %}
+The bot will be able to track your messages, or rather their content, files and embeds
+
+This is necessary for logs, moderation, as well as our neural network.
+
+We do not store your messages beyond the discord limit.
+
+For the neural network, we use the following libraries: TensorFlow, NLTK, Gensim.
+We have 2 neural networks: 1. this is the recognition of questions. 2 This is a search for similar questions that managers have recorded
+{% endhint %}
+
+{% hint style="warn" %}
+The user can refuse to use this Internet, after which he is prohibited from using the bot and is on the same server with it.
+{% endhint %}
 
 ## Data storage
 
