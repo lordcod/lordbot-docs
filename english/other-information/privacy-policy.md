@@ -58,7 +58,7 @@ The server owner may request a waiver of this intention.
 {% hint style="info" %}
 The bot will be able to track your messages, or rather their content, files and embeds
 
-This is necessary for logs, moderation, as well as our neural network.
+This is necessary for logs, moderation, ticket archiving, as well as our neural network.
 
 We do not store your messages beyond the discord limit.
 
