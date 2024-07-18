@@ -60,7 +60,7 @@ The bot will be able to track your messages, or rather their content, files and 
 
 This is necessary for logs, moderation, ticket archiving, as well as our neural network.
 
-We do not store your messages beyond the discord limit.
+We do not store your messages outside of discord, only if the user has written to the ticket and the server manager has enabled archiving of messages.
 
 For the neural network, we use the following libraries: TensorFlow, NLTK, Gensim. 
 We have 2 neural networks: 1. this is the recognition of questions. 2 This is a search for similar questions that managers have recorded
