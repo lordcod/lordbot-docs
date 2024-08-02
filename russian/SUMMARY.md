@@ -8,6 +8,8 @@
   * [📑 Переменные](guides/embed-builder/variables.md)
 * [📮 Авто сообщения в ветках/форумах](guides/auto-thread-messages.md)
 * [🟢 Авто реакции](guides/auto-reactions.md)
+* [🎟️ Тикеты](guides/tickets.md)
+* [🎤 Временные каналы](guides/tempory-voice.md)
 
 ## 🧾 Другая информация <a href="#other-information" id="other-information"></a>
 
