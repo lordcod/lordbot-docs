@@ -38,7 +38,7 @@ description: >-
 
 ### Как запретить / разрешить пользователям закрывать тикет?
 
-<figure><img src="../.gitbook/assets/Запись-2024-08-03-013821 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Запись 2024-08-06 151415.gif" alt=""><figcaption></figcaption></figure>
 
 Таким образом, вы можете разрешить / запретить пользователям закрывать заявку
 
