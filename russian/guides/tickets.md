@@ -16,7 +16,13 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Запись-2024-08-03-005859.gif" alt=""><figcaption></figcaption></figure>
 
-Выберите категорию **Тикеты**, а далее нажмите кнопку **Выбрать**, после  выберите панель тикета и по желанию его категорию, если она не будет указано, то по умолчанию будет категория панели.
+Выберите категорию **Тикеты**, а далее нажмите кнопку **Выбрать**, после выберите панель тикета и по желанию его категорию, если она не будет указано, то по умолчанию будет категория панели.
+
+## Как изменить каналы / категории?
+
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 140818_changed.gif" alt=""><figcaption></figcaption></figure>
+
+Выберите категорию **Тикеты**, а далее выберие нужную панель тикетов, после нажмите кнопку **Каналы и категории заявок**, и наконец выберите новый канал.
 
 ## Как удалить тикеты?
 
@@ -50,13 +56,13 @@ description: >-
 
 #### Каналы
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Создается канал с правами для модераторов и пользователя.
 
 #### Ветки
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Создается ветка в канале панели.
 
@@ -72,7 +78,7 @@ description: >-
 
 #### Панель
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Сообщение в панели</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Сообщение в панели</p></figcaption></figure>
 
 #### Категория
 
@@ -118,7 +124,7 @@ description: >-
 
 #### Короткий / параграф
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Короткий тип и параграф, и чем они отличаются</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Короткий</p></figcaption></figure>
 
@@ -128,3 +134,48 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Текст, который исчезает, когда вы начинаете редактировать.</p></figcaption></figure>
 
+### Как добавить FAQ / ЧаВо?
+
+**FAQ** - Frequently Asked Questions\
+**ЧаВо** - Часто задаваемые вопросы\
+_**FAQ = ЧаВо**_
+
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 143325.gif" alt=""><figcaption></figcaption></figure>
+
+Выберите **ЧаВо Заявки**, далее нажмите добавить.
+
+#### Как изменить элемент FAQ / ЧаВо?
+
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 145117.gif" alt=""><figcaption></figcaption></figure>
+
+Выберите **ЧаВо Заявки**, далее выберите нужный элемент, и нажмите **Редактировать**.
+
+#### Как удалить элемент FAQ / ЧаВо?
+
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 145620.gif" alt=""><figcaption></figcaption></figure>
+
+Выберите **ЧаВо Заявки**, далее выберите нужный элемент, и нажмите **Удалить**.
+
+#### Как изменить тип FAQ / ЧаВо?
+
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 144300.gif" alt=""><figcaption></figcaption></figure>
+
+Выберите **ЧаВо Заявки** и выберите нужный **тип ЧаВо**.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Тип выпадающее меню и кнопка</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Кнопка</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Выпадающее меню</p></figcaption></figure>
+
+### Как добавить категории?
+
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 145620 (1).gif" alt=""><figcaption></figcaption></figure>
+
+Выберите **Категории**, далее нажмите добавить.
+
+### Как изменить категорию?
+
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 150921.gif" alt=""><figcaption></figcaption></figure>
+
+Выберите **Категории**, далее выберите нужную категорию, и нажмите **Редактировать**.
