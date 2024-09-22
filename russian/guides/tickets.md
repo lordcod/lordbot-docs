@@ -170,11 +170,11 @@ _**FAQ = ЧаВо**_
 
 ### Как добавить категории?
 
-<figure><img src="../.gitbook/assets/Запись 2024-08-31 145620 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Запись 2024-08-31 150232.gif" alt=""><figcaption></figcaption></figure>
 
 Выберите **Категории**, далее нажмите добавить.
 
-### Как изменить категорию?
+#### Как изменить категорию?
 
 <figure><img src="../.gitbook/assets/Запись 2024-08-31 150921.gif" alt=""><figcaption></figcaption></figure>
 
