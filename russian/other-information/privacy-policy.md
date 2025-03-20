@@ -14,14 +14,14 @@ icon: user-police
 
 Ниже приведен список ботов, к которым применяется эта политика конфиденциальности:
 
-{% embed url="https://invite.lordcord.fun" %}
-[**LordCord#2170**](https://invite.lordcord.fun/)
+{% embed url="https://discord.com/oauth2/authorize?client_id=1095713975532007434" %}
+[LordCord](https://discord.com/oauth2/authorize?client_id=1095713975532007434)
 {% endembed %}
 
 Эта политика конфиденциальности также применяется ко всем этим сайтам и их поддоменам:
 
-{% embed url="https://lordcord.fun/" %}
-[**lordcord.fun**](https://lordcord.fun)
+{% embed url="https://lordcord.xyz" %}
+[lordcord.xyz](https://lordcord.xyz)
 {% endembed %}
 
 ## Терминология
