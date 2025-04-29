@@ -57,13 +57,13 @@ icon: ticket
 
 #### Каналы
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Создается канал с правами для модераторов и пользователя.
 
 #### Ветки
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Создается ветка в канале панели.
 
@@ -79,7 +79,7 @@ icon: ticket
 
 #### Панель
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Сообщение в панели</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Сообщение в панели</p></figcaption></figure>
 
 #### Категория
 
@@ -163,11 +163,11 @@ icon: ticket
 
 Выберите **ЧаВо Заявки** и выберите нужный **тип ЧаВо**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Тип выпадающее меню и кнопка</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Тип выпадающее меню и кнопка</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Кнопка</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Кнопка</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Выпадающее меню</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Выпадающее меню</p></figcaption></figure>
 
 ### Как добавить категории?
 

@@ -55,7 +55,7 @@ icon: message-check
 
 ### Предложение или идея
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Лог содержит информацию о всех предложенных идеях и предложениях, которые были рассмотрены в системе. Он помогает отслеживать процесс развития идей и принятия решений на основе предложений от участников.
 
