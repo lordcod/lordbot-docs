@@ -6,8 +6,9 @@
 
 * [Embed Builder](guides/embed-builder/README.md)
   * [Переменные](guides/embed-builder/variables.md)
-* [Авто сообщения в ветках/форумах](guides/auto-thread-messages.md)
-* [Авто реакции](guides/auto-reactions.md)
+* [Авто-роли](guides/avto-roli.md)
+* [Авто-сообщения в ветках/форумах](guides/auto-thread-messages.md)
+* [Авто-реакции](guides/auto-reactions.md)
 * [Тикеты](guides/tickets.md)
 * [Временные каналы](guides/tempory-voice.md)
 * [Идеи](guides/idei.md)

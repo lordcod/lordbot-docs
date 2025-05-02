@@ -22,7 +22,7 @@ icon: message-exclamation
 
 ### **Как выбрать канал?**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Вы можете выбрать канал благодаря dropdown меню, находящимся прямо под у embed-ом!
 
@@ -48,7 +48,7 @@ icon: message-exclamation
 
 ### Можно ли увидеть предварительно сообщение? &#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Нажмите **Просмотреть сообщение**, чтобы ознакомиться с автоматически созданным предварительным приветственным сообщением.
 
@@ -114,7 +114,7 @@ icon: message-exclamation
 
 ### Можно ли увидеть предварительно сообщение?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Нажмите **Просмотреть сообщение**, чтобы ознакомиться с автоматически созданным предварительным приветственным сообщением.
 
